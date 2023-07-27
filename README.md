@@ -12,7 +12,7 @@
 
 - Задача 2.
 <details>
-  <summary>Нажмите, чтобы открыть/закрыть окно</summary>
+  <summary>Нажмите, чтобы открыть/закрыть окно.</summary>
 
 ![Скриншот](https://github.com/GBardeec/Completed_tasks/blob/main/Screenshot/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%821.JPG?raw=true)
 
@@ -23,7 +23,7 @@
 
 # SQL. Задача 2.
 <details>
-  <summary>Нажмите, чтобы открыть/закрыть окно</summary>
+  <summary>Нажмите, чтобы открыть/закрыть окно.</summary>
 
 ![Скриншот](https://github.com/GBardeec/Completed_tasks/blob/main/Screenshot/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%823.JPG?raw=true)
 
