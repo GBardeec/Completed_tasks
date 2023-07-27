@@ -19,7 +19,7 @@
 </details>
 
 # SQL. Задача 1.
-
+[Ссылка](https://www.sololearn.com/profile/8372948)
 
 # SQL. Задача 2.
 <details>
