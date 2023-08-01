@@ -31,3 +31,6 @@
 
 # PHP. Задача 1.
 [Ссылка](https://www.sololearn.com/profile/8372948)
+
+# PHP. Задача 2.
+[Ссылка](https://github.com/GBardeec/ToDoList_php_optionThree)
