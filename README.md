@@ -34,3 +34,6 @@
 
 # PHP. Задача 2.
 [Ссылка](https://github.com/GBardeec/ToDoList_php_optionThree)
+
+# PHP. Задача 3.
+[Ссылка](https://github.com/GBardeec/working_with_OOP/tree/main)
