@@ -1,7 +1,7 @@
-# GIT. Задача 1.
+# Задача 1. GIT.
 [Ссылка](https://github.com/GBardeec/assignment_on_githowto)
 
-# GIT. Задача 2.
+# Задача 2. GIT.
 - Задача 1.
 <details>
   <summary>Нажмите, чтобы открыть/закрыть окно</summary>
@@ -18,10 +18,10 @@
 
 </details>
 
-# SQL. Задача 1.
+# Задача 3. SQL. 
 [Ссылка](https://www.sololearn.com/profile/8372948)
 
-# SQL. Задача 2.
+# Задача 4. SQL.
 <details>
   <summary>Нажмите, чтобы открыть/закрыть окно.</summary>
 
@@ -29,11 +29,11 @@
 
 </details>
 
-# PHP. Задача 1.
+# Задача 5. PHP.
 [Ссылка](https://www.sololearn.com/profile/8372948)
 
-# PHP. Задача 2.
+# Задача 6. PHP.
 [Ссылка](https://github.com/GBardeec/ToDoList_php_optionThree)
 
-# PHP. Задача 3.
+# Задача 7. PHP. ООП.
 [Ссылка](https://github.com/GBardeec/working_with_OOP/tree/main)
