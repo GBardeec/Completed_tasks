@@ -39,4 +39,4 @@
 [Ссылка](https://github.com/GBardeec/working_with_OOP/tree/main)
 
 # Задача 8. PHP. MVC.
-[Ссылка](https://github.com/GBardeec/ToDoList_php_MVC)https://github.com/GBardeec/ToDoList_php_MVC)
+[Ссылка](https://github.com/GBardeec/ToDoList_php_MVC)
