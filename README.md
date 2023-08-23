@@ -41,6 +41,6 @@
 # Задача 8. PHP. MVC.
 [Ссылка](https://github.com/GBardeec/ToDoList_php_MVC)
 
-# Задача 9. PHP Laravel. Social network.
+# Задача 9 и 10. PHP Laravel. Social network.
 [Ссылка](https://github.com/GBardeec/socialNetwork_laravel)
 
